@@ -48,6 +48,10 @@ Scoreboard:
 You: 0  
 Computer: 1  
 ```
+## 📸 Game Screenshot
+
+![Game Screenshot](https://github.com/Janish917/rock-paper-fun/blob/main/Screenshot%20(25).png?raw=true)
+
 
 ## License
 
